@@ -5,13 +5,10 @@ Below list provides reference/sample software for evaluating and building roboti
 
 <b>CCD ToF:</b>
 1. <a href="https://github.com/OpenNuvoton/ToF-viewer-app-for-Qualcomm-RB5" target="_top">ToF viewer app</a>
-2. <a href="https://github.com/OpenNuvoton/ToF-viewer-app-with-post-processing-for-Qualcomm-RB5" target="_top">ToF viewer app with post processing functions</a> 
-3. <a href="https://github.com/OpenNuvoton/ToF-ROS2-app-with-post-processing-for-Qualcomm-RB5" target="_top">ROS2 app (includes post processing functions)</a> 
 
-<b>CIS ToF (Under Development):</b>
+<b>CIS ToF:</b>
 1. <a href="https://github.com/OpenNuvoton/CIS-ToF-viewer-app-for-Qualcomm-RB5" target="_top">CIS ToF viewer app</a>
-2. <a href="https://github.com/OpenNuvoton/CIS-ToF-viewer-app-with-post-processing-for-Qualcomm-RB5" target="_top">CIS ToF viewer app with post processing functions</a>
-3. <a href="https://github.com/OpenNuvoton/CIS-ToF-ROS2-app-with-post-processing-for-Qualcomm-RB5" target="_top">CIS ToF ROS2 app (includes post processing functions)</a>
-4. <a href="https://github.com/OpenNuvoton/CIS-ToF-dev-drv-lib-for-Qualcomm-RB5" target="_top">CIS ToF device driver</a> 
+2. <a href="https://github.com/OpenNuvoton/CIS-ToF-dev-drv-lib-for-Qualcomm-RB5" target="_top">CIS ToF device driver</a> 
 
-For software with "post processing" libraries, please contact us at "ToF.support.ntsg@nuvoton.com" to get access to the repositories.
+NOTE: Repos with 'post processing' functions have been removed on 29/Nov/2024 due to expiry of contract with 3rd party.
+Please contact us at "ToF.support.ntsg@nuvoton.com" for any queries or inquiries.
